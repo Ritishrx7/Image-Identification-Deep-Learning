@@ -36,6 +36,14 @@ streamlit run DL_Streamlit_tesla.py
 
 Les images utilisées pour l’entraînement et les tests se trouvent dans le dossier `assets`.
 
+## Exemple Streamlit
+
+Voici un exemple de prédiction réalisée via l’interface Streamlit :
+
+![image1](image1)
+
+Dans cet exemple, l’application a détecté que la voiture n’est probablement **pas** une Tesla, avec une confiance de 87,80 %.
+
 ## Technologies utilisées
 
 - Python, Jupyter Notebook
